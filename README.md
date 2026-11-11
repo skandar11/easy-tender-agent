@@ -13,7 +13,8 @@
 ## Как начать
 
 1. Скачайте папку: зелёная кнопка **Code → Download ZIP** и распакуйте ближе к корню
-   диска, например `C:\tender\`. Или `git clone`.
+   диска, например `C:\tender\`. Или:
+   `git clone https://github.com/skandar11/easy-tender-agent.git`
 2. **Claude Code:** откройте папку и напишите `/mcp` → `easytender` → **Authenticate** —
    откроется страница «Введите ключ доступа», введите ключ агента. Для курса так же — `kurs`.
    **Claude Desktop (Cowork):** Настройки → Коннекторы → Add custom connector →
